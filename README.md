@@ -1,4 +1,6 @@
 # gitskills
-Hello
-timi
-g
+Hellotimi
+guan
+and
+feichuan
+40934242023e6ce4962ab189d7f62d4150ce2f5
